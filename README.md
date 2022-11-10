@@ -1,10 +1,9 @@
-# SAR Built-up Area Extraction Dataset
+# Mutli-Temporal Pseudo Labelding (TPL)
+Mutli-temporal pseudo labelding (TPL) for SAR image building extraction.
 
-demo of labeled samples:
-![image](demo/supervised.png)
+This code is based on [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) framework.
 
-demo of unlabeled multi-temporal samples:
-![image](demo/unsupervised.png)
-![image](demo/unsupervised2.png)
+sample images:
+![img](demo/res.png)
 
-The full dataset and code are on the way...
+The full code is on the way...
