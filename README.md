@@ -1,7 +1,5 @@
 # Edge-Aware Semi-Supervised Built-Up Area Extraction Using Multi-Temporal SAR Images
 
-Code of the paper
-
 This code is based on [MMSegmentation v0.25.0](https://github.com/open-mmlab/mmsegmentation/tree/v0.25.0) framework. Please follow its guidelines to install and use the code.
 
 ## Abstract
@@ -25,7 +23,7 @@ python tools/test.py ${checkpoint_path} --show-dir show_dir --eval mIoU
 
 ## Dataset
 The dataset (in .png format, uint8) can be downloaded from [here](
-https://xnjdxb.swjtu.edu.cn/news_list.htm?column=shujuji)
+https://xnjdxb.swjtu.edu.cn/news_list.htm?column=shujuji).
 
 ## Citation
 ```bibtex
